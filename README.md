@@ -160,7 +160,7 @@ endmodule
 
 **RTL Schematic**
 
-![image](https://github.com/keerthanapillaram/Project-Based-Experiment/assets/145743072/306dfafd-7b63-432f-a7d2-97eeb648ef31)
+![image](https://github.com/keerthanapillaram/Project-Based-Experiment/assets/145743072/8bd672c3-dcd3-4de1-9b4a-53e5f881a628)
 
 
 **Output Timing Waveform**
